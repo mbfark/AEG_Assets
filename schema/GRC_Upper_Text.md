@@ -1,0 +1,1 @@
+Ark Energy acknowledges the Traditional Custodians of the land upon which we live and work, and their continuing connection to lands, waters, and communities. We also pay our respects to Elders past and present.

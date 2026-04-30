@@ -1,0 +1,8 @@
+﻿Attribute Rank,Microsoft Entra Label,Entra Schema ID,Data Type,Template Mapping,embedded template style
+1,Given Name,givenName,string,name.givenName,sig.givenName
+2,Family Name,familyName,string,name.familyName,sig.familyName
+3,Job Title,title,string,title,sig.title
+4,Department,department,string,department,sig.department
+5,Office Location,officeLocation,string,officeLocation,sig.officelocation
+6,Business Phone,,string,phoneNumbers,sig.phonenumber
+7,Email Address,email,string,emails,sig.emails
